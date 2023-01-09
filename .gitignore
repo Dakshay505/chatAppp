@@ -1,0 +1,23 @@
+# dependencies
+/server/node_modules
+/chatnow/node_modules
+/chatnow/.pnp
+/chatnow/.pnp.js
+
+# testing
+/chatnow/coverage
+
+# production
+/chatnow/build
+
+# misc
+/server/config/config.env
+/chatnow/.DS_Store
+/chatnow/.env.local
+/chatnow/.env.development.local
+/chatnow/.env.test.local
+/chatnow/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
